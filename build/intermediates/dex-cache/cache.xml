@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\Desktop\Calendar-Schedual\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="C:\Users\user\Desktop\Calendar-Schedual\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.0.1_c9df52100f85092b818720994a2eedea7dfb1a27.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\Desktop\Calendar-Schedual\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
+        <dex dex="C:\Users\user\Desktop\Calendar-Schedual\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-database-connection-10.0.1_4357cf6639982a57a67abf006f052a1d16696d57.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\Desktop\Calendar-Schedual\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="C:\Users\user\Desktop\Calendar-Schedual\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.0.1_0acd38505c8f3bcf2886c5c352c091f8262ef821.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\Desktop\Calendar-Schedual\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
+        <dex dex="C:\Users\user\Desktop\Calendar-Schedual\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-database-10.0.1_d99922004f69d67448ba985357c3884fd7ab8c6a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\Desktop\Calendar-Schedual\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="C:\Users\user\Desktop\Calendar-Schedual\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_975e0e1d6cc73e85f5f93898c96fc446275c2d17.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\Desktop\Calendar-Schedual\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="C:\Users\user\Desktop\Calendar-Schedual\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_b9c90a6c0afa734990dc44106e107c08de252478.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\Desktop\Calendar-Schedual\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="C:\Users\user\Desktop\Calendar-Schedual\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_6d28a38222b5748f64572eab87001179b44f00b8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\Desktop\Calendar-Schedual\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="C:\Users\user\Desktop\Calendar-Schedual\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-10.0.1_bb70514b5fac3779f8e9a46e111e3d03251238fb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\Desktop\Calendar-Schedual\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="C:\Users\user\Desktop\Calendar-Schedual\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-iid-10.0.1_301d6ecff81f01443d0a215d9050b33766906c97.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\Desktop\Calendar-Schedual\app\build\intermediates\exploded-aar\com.android.support\transition\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c1b6ab157e8e12cb08b9ee82bb5e3c5d22632eb3">
+        <dex dex="C:\Users\user\Desktop\Calendar-Schedual\app\build\intermediates\pre-dexed\debug\com.android.support-transition-25.0.1_0c6dc4ff0ff04eea481f4444d7352ae1c15d0fea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\Desktop\Calendar-Schedual\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bb82ebd4b35ed4bcf13ce8223f3a7a7dccbca4a5">
+        <dex dex="C:\Users\user\Desktop\Calendar-Schedual\app\build\intermediates\pre-dexed\debug\instant-run_8c506009f6b80f58e698576218337170a1b3858f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\Desktop\Calendar-Schedual\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="C:\Users\user\Desktop\Calendar-Schedual\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.0.1_08fc0808d8b2a647ababe66499e51d5db02d050f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\Desktop\Calendar-Schedual\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e6cd51469f7d1ddf92816b3f1c1aa680f681fb84">
+        <dex dex="C:\Users\user\Desktop\Calendar-Schedual\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_b49962fc6fcebe48c02329887810e230abaad671.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\Desktop\Calendar-Schedual\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\user\Desktop\Calendar-Schedual\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.0.1_900982d262046099935053d0d74d59c7ff99fbb9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\Desktop\Calendar-Schedual\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1108575c7dc7b7f5b378b3290ac90de81a9b8830">
+        <dex dex="C:\Users\user\Desktop\Calendar-Schedual\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-25.0.1_9880961ce3344754aceaa719efd4549e8deb41a9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\Desktop\Calendar-Schedual\app\build\intermediates\exploded-aar\com.android.support\design\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3b236883e0df6002cabb01ce57d00a5b1e5de610">
+        <dex dex="C:\Users\user\Desktop\Calendar-Schedual\app\build\intermediates\pre-dexed\debug\com.android.support-design-25.0.1_2e558d35e319890b968383a8a77162fcaae2c9b3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\Desktop\Calendar-Schedual\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="C:\Users\user\Desktop\Calendar-Schedual\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-common-10.0.1_40998027597d1c3e741160bc1714ee59c14b91dd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\Desktop\Calendar-Schedual\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="716e86e82c76364852543691555c605d4ad75b0d">
+        <dex dex="C:\Users\user\Desktop\Calendar-Schedual\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_b49962fc6fcebe48c02329887810e230abaad671.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\Desktop\Calendar-Schedual\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Users\user\Desktop\Calendar-Schedual\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_d2271deaf5406544a8e36bf0eac08826b6fc1633.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\Desktop\Calendar-Schedual\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="C:\Users\user\Desktop\Calendar-Schedual\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.0.1_42397dfb18dd5051108308c80ed2ad64c82caeb8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\Desktop\Calendar-Schedual\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="C:\Users\user\Desktop\Calendar-Schedual\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.0.1_0fbe9d7fea3c0269c6cc9d2d5e9d9058ee16a773.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\Desktop\Calendar-Schedual\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="C:\Users\user\Desktop\Calendar-Schedual\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-10.0.1_c631bc3553aca93609de709ec89c99a211f1e3b6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\Desktop\Calendar-Schedual\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="C:\Users\user\Desktop\Calendar-Schedual\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-impl-10.0.1_b5b576dd27168ad3c6d99434c5b5d99d9c192ca6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.1\support-annotations-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="C:\Users\user\Desktop\Calendar-Schedual\app\build\intermediates\pre-dexed\debug\support-annotations-25.0.1_5238579494918095f6fc6011657cd4d401286e17.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\Desktop\Calendar-Schedual\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bb82ebd4b35ed4bcf13ce8223f3a7a7dccbca4a5">
+        <dex dex="C:\Users\user\Desktop\Calendar-Schedual\app\build\intermediates\pre-dexed\debug\instant-run_8c506009f6b80f58e698576218337170a1b3858f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\Desktop\Calendar-Schedual\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="C:\Users\user\Desktop\Calendar-Schedual\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.0.1_3be3f4e78f19d527119c1424466b932b5fe86b78.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\Desktop\Calendar-Schedual\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="C:\Users\user\Desktop\Calendar-Schedual\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.0.1_40441db93b364455abc811e8e3ccbcd54f608dea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\Desktop\Calendar-Schedual\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="C:\Users\user\Desktop\Calendar-Schedual\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-10.0.1_310e9f649a87059e1a844f4a05cbef0214abd17e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\Desktop\Calendar-Schedual\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
+        <dex dex="C:\Users\user\Desktop\Calendar-Schedual\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.0.1_c7bd3b0723403d3aa4f04798e49970235612132e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\Desktop\Calendar-Schedual\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="C:\Users\user\Desktop\Calendar-Schedual\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_e32130f0f2bdce828bcf160114ce61a1ad93a5ca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\Desktop\Calendar-Schedual\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="C:\Users\user\Desktop\Calendar-Schedual\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.0.1_2d874b848276779a3f0a3fc6bed478228c2ac1e6.jar" />
+    </item>
+
+</items>
